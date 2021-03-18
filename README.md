@@ -2,7 +2,7 @@
 ##1) overview of the project
 
 Steve collected data for a number of energy stock to be analyzed to help his parents decide on there investment in DAQO New Energy Corp (DQ). 
-The project is to automate stock analysis for steve usisng VBA. 
+The project is to automate stock analysis for steve using VBA. 
 
 ##2) Results
 
